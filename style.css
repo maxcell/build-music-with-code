@@ -18,40 +18,13 @@ html, body {
   float: left;
   margin-left: 10px;
   margin-top: 10px;
+  border: 2px solid black;
 }
 
-#c {
-  background-color: aqua;
-  border: 3px solid black;
-}
-
-
-#d {
-  background-color: peachpuff;
-  border: 3px solid black;
-}
-
-#e {
-  background-color: blueviolet;
-  border: 3px solid black;
-}
-
-#f {
-  background-color: gold;
-  border: 3px solid black;
-}
-
-#g {
-  background-color: red;
-  border: 3px solid black;
-}
-
-#a {
-  background-color: brown;
-  border: 3px solid black;
-}
-
-#b {
-  background-color: orange;
-  border: 3px solid black;
-}
+#c { background-color: aqua; }
+#d { background-color: peachpuff; }
+#e { background-color: blueviolet; }
+#f { background-color: gold; }
+#g { background-color: red; }
+#a { background-color: brown; }
+#b { background-color: orange; }
