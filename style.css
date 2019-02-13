@@ -1,0 +1,57 @@
+html, body {
+  background-color: black;
+  height: 100%;
+}
+
+#instrument {
+  background-color: blue;
+  height: 120px;
+  width: 820px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#c {
+  background-color: aqua;
+  border: 3px solid black;
+}
+
+
+#d {
+  background-color: peachpuff;
+  border: 3px solid black;
+}
+
+#e {
+  background-color: blueviolet;
+  border: 3px solid black;
+}
+
+#f {
+  background-color: gold;
+  border: 3px solid black;
+}
+
+#g {
+  background-color: red;
+  border: 3px solid black;
+}
+
+#a {
+  background-color: brown;
+  border: 3px solid black;
+}
+
+#b {
+  background-color: orange;
+  border: 3px solid black;
+}
