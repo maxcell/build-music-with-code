@@ -17,17 +17,9 @@ receive this workshop. The goal for both parties is to have fun!
 
 ### Top Level Instructions for this Repo
 
-This repository was designed to showcase the journey of the workshop. The first
-commit will be found to be the end result, however, an easy way to see step by
-step what is happening is to check out the branches. I made sure to put different
-phases of the project for a branch and if you want to see the accumulative diff
-between branches it may be easier than digging through the commit history. `master`
-will represent the finished result if you're interested in seeing it. Each other
-branch will be numerically designated from `00`, `01`, `02`... and so forth till
-the end.
-
-In this README, you will also see the instructions as they should outline each step
-appropriately.
+This repository was designed to showcase the journey of the workshop. In this README, 
+you will also see the instructions as they should outline each step
+appropriately for the leader.
 
 #### 00 Initial
 
